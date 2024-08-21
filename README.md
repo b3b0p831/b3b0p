@@ -26,4 +26,6 @@ python3 bebop.py
 
 ### Credits:
 
+b3b0p.gif - https://www.reddit.com/r/cowboybebop/comments/4sp4sg/cowboy_bebop_pixel_art/
+
 
