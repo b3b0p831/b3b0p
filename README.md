@@ -1,6 +1,6 @@
 # b3b0p - Remote Administration Tool (R.A.T)
 
-![image](/imgs/b3b0p.gif)
+![image](/imgs/b3b0p)
 
 b3bop is a simple R.A.T built using python. It uses a reverse shell and encryption to send commands to a target machine.
 
